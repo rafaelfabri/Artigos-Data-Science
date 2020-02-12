@@ -1,16 +1,13 @@
 # Artigos-Data-Science
 [![author](https://img.shields.io/badge/author-RafaelFabri-red.svg)](https://www.linkedin.com/in/rafael-fabri-chimidt/) 
 
-Neste repositório contém artigos com foco em Data Science, com o objetivo de mostrar como utilizar algumas ferramentas e gráficos em python 
-
-
 
 **Rafael Fabri Chimidt**
 <p align="center">
 <img src = "https://user-images.githubusercontent.com/59238686/72443532-2b06be00-378d-11ea-8b54-3d6f748044da.jpg"
      </p>
 
-Neste repositório encontra-se meus projetos realizados na área de Data Science.
+Neste repositório contém artigos com foco em Data Science, com o objetivo de mostrar como utilizar algumas ferramentas e gráficos em python.
 
 **Link para projetos:**
 
@@ -29,3 +26,4 @@ Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Ita
 **Links:** 
 
 * [Linkedin](https://www.linkedin.com/in/rafael-fabri-chimidt/)
+* [medium](https://medium.com/@rafael.fabri.chimidt)
