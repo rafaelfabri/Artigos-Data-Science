@@ -11,8 +11,8 @@ Neste repositório contém artigos com foco em Data Science, com o objetivo de m
 
 **Link para projetos:**
 
-* Análise dos dados da Airbnb https://bit.ly/2v9yN7r
-* Analisando a Violência no Rio de Janeiro https://bit.ly/38bAkbr
+* Como fazer um Wordcloud em python https://bit.ly/2STpxfR
+
 
 # Sobre mim
 Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Itapeva.
