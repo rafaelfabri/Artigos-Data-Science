@@ -12,7 +12,7 @@ Neste repositório contém artigos com foco em Data Science, com o objetivo de m
 **Link para projetos:**
 
 * Como fazer um Wordcloud em python https://bit.ly/2STpxfR
-
+* Como utilizar o Folium para mapeamento de dados em Python https://bit.ly/2Wl5Ctl
 
 # Sobre mim
 Curso Engenharia de Produção com ênfase em materiais na Unesp - Campus de Itapeva.
